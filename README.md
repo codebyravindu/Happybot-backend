@@ -148,8 +148,8 @@ Example document:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/IT21224348/irwa_happybot_BackEnd.git
-cd irwa_happybot_BackEnd
+git clone https://github.com/codebyravindu/Happybot-backend
+cd Happybot-backend
 ```
 
 ### Create Virtual Environment
