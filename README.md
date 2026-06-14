@@ -219,23 +219,6 @@ http://localhost:5000
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Chat Interface
-- API Testing (Postman)
-- MongoDB Collections
-- Model Training Results
-
-Example:
-
-```markdown
-![Chat Interface](assets/chatbot-ui.png)
-```
-
----
-
 ## 👨‍💻 Author
 
 ### H.D.S. Ravindu Sulakkana
@@ -243,13 +226,6 @@ Example:
 - BSc (Hons) Information Technology – SLIIT
 - Aspiring Data Engineer & AI Enthusiast
 - Interested in Machine Learning, Data Engineering, and Intelligent Systems
-
-### Connect with Me
-
-- GitHub: https://github.com/IT21224348
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
-
----
 
 ## ⭐ Support
 
