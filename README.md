@@ -4,7 +4,7 @@ AI-powered chatbot backend built using Flask, TensorFlow, NLTK, and MongoDB. Hap
 
 ## 🎥 Project Demonstration
 
-[![Watch Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/hqYs3jjgwXI)
+[![Watch Demo]](https://www.youtube.com/watch?v=hqYs3jjgwXI)
 
 📺 **Demo Video:** https://www.youtube.com/watch?v=YOUR_VIDEO_ID
 
